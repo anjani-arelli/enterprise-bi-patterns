@@ -15,7 +15,7 @@ you're another BI dev: steal anything useful.
 |---|---|
 | `dax/` | Reusable DAX patterns — dynamic segmentation, RAG status KPIs, time-intelligence gotchas |
 | `sql/` | Operational SQL I keep reusing — archival/purge jobs, audit logging |
-| `power-bi/` | The non-obvious stuff: performance tuning checklist, RLS at scale |
+| `power-bi/` | The non-obvious stuff: performance tuning checklist, RLS at scale, incremental refresh gotchas |
 | `governance/` | PII masking playbook for Azure Synapse — the pattern, not the policy |
 
 ## A note on honesty
